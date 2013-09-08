@@ -1,0 +1,10 @@
+*.pyc
+*.sqlite
+settings_local.py
+local_settings.py
+*.swp
+static/uploads
+*.prof
+static/CACHE/
+static/filebrowser/
+static/images/dynamic/

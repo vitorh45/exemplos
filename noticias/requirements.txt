@@ -1,0 +1,9 @@
+django==1.4.6
+South
+easy_thumbnails
+django-grappelli
+pillow
+django-simple-captcha
+django-pagination
+django-filebrowser
+
